@@ -1,7 +1,6 @@
 name: std_flutter_devkit
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -10,6 +9,23 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  url_launcher: ^6.2.1
+  path_provider: ^2.1.1
+  shared_preferences: ^2.2.2
+  flutter_tex: ^4.0.6
+  google_mobile_ads: ^4.0.0
+  connectivity_plus: ^5.0.2
+  advanced_in_app_review: ^1.2.1
+  in_app_update: ^4.2.2
+  fluttertoast: ^8.2.4
+  wakelock_plus: ^1.1.4
+  http: ^1.2.1
+  rating_dialog: ^2.0.4
+  in_app_review: ^2.0.8
+  cached_network_image: ^3.3.1
+  android_intent_plus: ^4.0.3
+  device_apps: ^2.2.0
+
 
 dev_dependencies:
   flutter_test:
